@@ -23,3 +23,42 @@
 /zlib.pc
 
 .DS_Store
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# CMake
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+/*.vcxproj*
+/*.sln
+/CTestTestfile.cmake
+/Testing
+foo-gz
+foo.gz
